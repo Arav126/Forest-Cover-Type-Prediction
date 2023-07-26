@@ -13,7 +13,7 @@ Process Followed
 4. Comparing and Testing Various Models on the dataset to predict the `Cover_Type`
 
 Conclusion
-Upon testing several models and infering from their results, by cross-validation and also fine-tuning the models using grid-search. We are able to conclude that, for our dataset the best models ranked according to F1 Score are
+Upon testing several models and infering from their results, by cross-validation and also fine-tuning the models using grid-search. We are able to conclude that, for our dataset the best models ranked according to F1 Score are - 
 1. Extra Trees Classifier
 2. Random Forest Classifier
 3. LGBM (Lighht Gradient Boosting Machine)
